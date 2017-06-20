@@ -4,7 +4,7 @@ prefix commands with git
 
 init - make git repository in current directory
 add - move from working directory to staging directory
-commit - move from staging to repository
+commit - move from staging to repository ; -m "" to put note directly in line instead of opening nano
 status - see current status
 diff - see difference between previous version and current version ; --staging - to compare staging to 
 repository
