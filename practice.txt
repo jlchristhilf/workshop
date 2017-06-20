@@ -1,0 +1,12 @@
+GITHUB NOTES
+
+prefix commands with git
+
+init - make git repository in current directory
+add - move from working directory to staging directory
+commit - move from staging to repository
+status - see current status
+diff - see difference between previous version and current version ; --staging - to compare staging to 
+repository
+log - see what's in repository
+
