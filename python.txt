@@ -1,5 +1,7 @@
 Python Learning Plan
 
 1. Use numpy for arrays
-2. For loops
+2. For loops / With loops
 3. If Else Statements
+4. Pandas, after numpy
+5. matplot for graphs
