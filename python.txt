@@ -1,0 +1,5 @@
+Python Learning Plan
+
+1. Use numpy for arrays
+2. For loops
+3. If Else Statements
